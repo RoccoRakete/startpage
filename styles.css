@@ -76,6 +76,7 @@ body {
 }
 
 .surface > img {
+  padding: 20px;
   height: var(--picture-size);
   width: var(--picture-size);
   object-fit: cover;
